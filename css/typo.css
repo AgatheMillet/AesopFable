@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo&family=Lobster&display=swap');
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 6em;
+
+}
+
+h2 {
+  font-size: 2em;
+}
+
+body{
+  font-family: 'Cairo', sans-serif;
+  font-size: 1.2em;
+}
+
+div{
+font-family: 'Lobster', cursive;
+font-size: 1.4;
+}
